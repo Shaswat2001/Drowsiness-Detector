@@ -1,6 +1,6 @@
 # Drowsiness-Detector
 
-Used to alert the river in case he/she falls asleep therby reducing the chances of accidents.
+Used to alert the driver in case he/she falls asleep therby reducing the chances of accidents.
 
 ## Dependencies
 1. import keras
@@ -20,6 +20,6 @@ A computer vision system made with the help of Opencv and Keras. OpenCV detects 
 The model is trained on 83201 images and tested on 1697 images.
 The model is trained for 15 epochs and an accuracy of is achieved.
 
-An overwiew of model-
+An overwiew of the model-
 
 ![model](https://user-images.githubusercontent.com/60061712/89419271-cf167d80-d74e-11ea-8c6a-574c28716dea.png)
