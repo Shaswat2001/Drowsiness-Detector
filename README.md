@@ -20,3 +20,4 @@ A computer vision system made with the help of Opencv and Keras. OpenCV detects 
 The model is trained on 83201 images and tested on 1697 images.
 The model is trained for 15 epochs and an accuracy of is achieved.
 
+An overwiew of model
