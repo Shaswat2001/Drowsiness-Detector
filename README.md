@@ -1,5 +1,17 @@
 # Drowsiness-Detector
 
-In this project we make a Drowsiness Detector using OpenCV and Keras.
+Used to alert the river in case he/she falls asleep therby reducing the chances of accidents.
 
-OpenCV is used to detect faces, right and left eyes whereas a CNN model is used to detect is the eyes are closed or opened
+## Dependencies
+1. import keras
+2. import numpy
+3. import cv2
+4. import playsound
+5. import numpy as np
+6. import imutils
+7. import time
+8. import threading
+9. import argparse
+
+
+
