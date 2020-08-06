@@ -23,7 +23,7 @@ ap.add_argument("-w", "--webcam", type=int, default=0,help="index of webcam on s
 ap.add_argument("-a", "--alarm", type=str, default="",help="path alarm .WAV file")
 args = vars(ap.parse_args())
 # Loading the model
-model=load_model('models/cnncat2.h5')
+model=load_model('models/CNN_Model.h5')
 # Starts the videostream
 cap=VideoStream(src=args['webcam']).start()
 # Pauses for one second to allow the camera sensor to warm up
