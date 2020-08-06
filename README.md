@@ -23,3 +23,6 @@ The model is trained for 15 epochs and an accuracy of 99.3% is achieved on the t
 An overwiew of the model-
 
 ![model](https://user-images.githubusercontent.com/60061712/89419271-cf167d80-d74e-11ea-8c6a-574c28716dea.png)
+
+The CNN model can be downloaded from here-
+https://drive.google.com/drive/folders/1saKOIRmBnm9-PYNOSEuT8Zq66FzOGEIw?usp=sharing
