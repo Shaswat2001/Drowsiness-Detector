@@ -18,7 +18,7 @@ A computer vision system made with the help of Opencv and Keras. OpenCV detects 
 
 ## CNN model
 The model is trained on 83201 images and tested on 1697 images.
-The model is trained for 15 epochs and an accuracy of is achieved.
+The model is trained for 15 epochs and an accuracy of 99.3% is achieved on the training set and 98% on test set.
 
 An overwiew of the model-
 
